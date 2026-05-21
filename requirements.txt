@@ -1,0 +1,32 @@
+# Core
+flask>=3.0.0
+requests>=2.31.0
+
+fastapi>=0.115.0
+gradio>=5.16.0
+gradio-client>=1.7.0
+
+
+
+# Pinecone (cloud vector DB)
+pinecone>=3.2.2
+
+# NVIDIA AI endpoints
+langchain-nvidia-ai-endpoints>=0.3.0
+
+# LangChain
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# Document loaders
+pypdf>=4.0.0
+
+# BM25
+rank_bm25>=0.2.2
+
+# Utilities
+python-dotenv>=1.0.0
+huggingface-hub>=0.20.0
+pydantic==2.10.6
